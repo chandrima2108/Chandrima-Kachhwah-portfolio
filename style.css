@@ -213,6 +213,7 @@ section .title::after {
 }
 
 .level{ 
+  margin:10px;
   height:10px;
   width : 500px;
   background-color: rgb(217, 39, 39);
@@ -405,7 +406,7 @@ section .title::after {
 }
 .projects .carousel .card img {
   height: 250px;
-  width: 280px;
+  width: 210px;
   object-fit: fill;
   border-radius: 10px;
   border: 2px solid crimson;
